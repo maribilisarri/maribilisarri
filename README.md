@@ -24,6 +24,34 @@
 
 
 
+<p>"-------------------------------"</p>
+### Hi there 👋, my name is Marivili
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://www.google.com/imgres?q=%20artistic%20background%20image%20machine%20learning&imgurl=https%3A%2F%2Fericmjl.github.io%2Fblog%2F2024%2F2%2F18%2Fdashboard-ready-data-is-often-machine-learning-ready-data%2Flogo.webp&imgrefurl=https%3A%2F%2Fericmjl.github.io%2Fblog%2F2024%2F2%2F18%2Fdashboard-ready-data-is-often-machine-learning-ready-data%2F&docid=tAujoTAeJPQCQM&tbnid=Hn5YJ_C4TE37rM&vet=12ahUKEwj3iazNkNSJAxXQSPEDHRCHLi44FBAzegQIUxAA..i&w=1792&h=1024&hcb=2&ved=2ahUKEwj3iazNkNSJAxXQSPEDHRCHLi44FBAzegQIUxAA)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning masters 
+- 📫 How to reach me: email 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maribilisarri)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/marivili-sarri-9123b0243/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/maribilisarri)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maribilisarri)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maribilisarri&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=maribilisarri)  
+
+
+
+
+
+
+
 <!--
 **maribilisarri/maribilisarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
