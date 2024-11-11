@@ -18,6 +18,11 @@ Once a mathematician, I am now embarking on a journey into the realm of Applied 
 
 <h2 align="left">📊 Github Stats: </h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maribilisarri)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maribilisarri&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=maribilisarri)  
 
 
 
