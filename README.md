@@ -2,8 +2,9 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://github.com/maribilisarri/maribilisarri/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%202024-11-11%20154026.jpg)
 
+<h1 align="center">Hi there 👋, I'm Marivili Sarri</h1>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Once a mathematician, I am now embarking on a journey into the realm of Applied Informatics, specializing in Software Development and Cloud technologies.
 
 Skills: JS / REACT / JS / HTML / CSS
 
@@ -31,7 +32,7 @@ Skills: JS / REACT / JS / HTML / CSS
 
 
 
-<h1 align="center">Hi 👋, I'm Marivili Sarri</h1>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
