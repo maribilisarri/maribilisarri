@@ -9,10 +9,7 @@ Once a mathematician, I am now embarking on a journey into the realm of Applied 
 
 - 🔭 I’m currently working as a Maths private tutor 
 - 🌱 Attending a MS in Applied Informatics - Computer Science from University of Macedonia. 
-- 📫 How to reach me: maribilisarri@gmail.com
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/marivili-sarri-9123b0243/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/maribilisarri)  
+- 📫 How to reach me: maribilisarri@gmail.com [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/marivili-sarri-9123b0243/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/maribilisarri)  
 
 
 
