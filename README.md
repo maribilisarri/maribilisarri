@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Marivili
 #### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/maribilisarri/maribilisarri/blob/main/1logo.webp))
+![I am GitHub Readme Generator's creator](https://github.com/maribilisarri/maribilisarri/blob/main/1logo.webp)
 
+https://github.com/maribilisarri/maribilisarri/blob/main/1logo.webp
 ![I am GitHub Readme Generator's creator](https://www.google.com/imgres?q=%20artistic%20background%20image%20machine%20learning&imgurl=https%3A%2F%2Fericmjl.github.io%2Fblog%2F2024%2F2%2F18%2Fdashboard-ready-data-is-often-machine-learning-ready-data%2Flogo.webp&imgrefurl=https%3A%2F%2Fericmjl.github.io%2Fblog%2F2024%2F2%2F18%2Fdashboard-ready-data-is-often-machine-learning-ready-data%2F&docid=tAujoTAeJPQCQM&tbnid=Hn5YJ_C4TE37rM&vet=12ahUKEwj3iazNkNSJAxXQSPEDHRCHLi44FBAzegQIUxAA..i&w=1792&h=1024&hcb=2&ved=2ahUKEwj3iazNkNSJAxXQSPEDHRCHLi44FBAzegQIUxAA)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
